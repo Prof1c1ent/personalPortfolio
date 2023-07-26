@@ -1,0 +1,128 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.fh1{
+    margin: 10px 0px 0px 30px;
+    padding:  5px  0px 0px 25px ;
+}
+
+.fh2{
+    margin: 30px 0px 0px 35px;
+    padding:  25px  0px 0px 20px ;
+}
+
+.fp{
+    margin: 10px 0px 0px 35px;
+    padding:  25px  0px 0px 20px ;
+}
+
+.half_width{
+    width: 40%;
+    float: left;}
+
+.half_width img{
+    width: 350px;
+    float: right;
+    background-repeat: no-repeat;
+}
+
+#first_hw{
+    height: 300px;
+    margin: 30px 0px 0px 50px;
+    padding: 20px 30px;
+    
+}
+.gh_link {
+    text-decoration: none;
+    background-color: orangered;
+    margin-left:15%;
+    padding: 4px 16px;
+    border-radius: 10px;
+    color: white;
+    position: relative;
+    top: 20px;
+    font-size: 0.8em;
+}
+
+.gh_link:hover{
+    background-color: aqua;
+}
+.first_cr{
+    background-image: url(images/header-bg.png);
+    height: 500px;
+    border: 1px solid red;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 5%;
+}
+
+#second_hw{
+    float: right;
+    margin-top:10%;
+    margin-right: 3%;
+}
+
+#secord_cr{
+    background-image: url(images/biography-bg.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid greenyellow;
+    padding-right: 4%;
+}
+#sec_h{
+margin-top: 4%;
+
+}
+#sec_h img{
+    width: 350px;
+}
+
+.th2{
+    text-align: center;
+
+}
+.t_sec{
+    background-image: url(images/latest-work-bg.png);
+    height: 500px;
+    background-size: contain; 
+}
+
+.image_container{
+    padding-top: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: space-between;
+}
+.image_container img{
+    margin: 2%;
+}
+.ch2{
+    text-align: center;
+}
+.client_info{
+    text-align: center;
+}
+.foot{
+    height: 400px;
+    background-image: url(images/footer-bg.png);
+}
+.client_info a{
+    text-decoration: none;
+    color:darkblue;
+    font-weight: 700;
+}
+
+.leave_m{
+    text-align: center;
+}
+.leave_m a{
+    text-decoration: none;
+    font-size: 1.2em;
+    border: 1px solid red;
+    color: white;
+    background-image: linear-gradient( rgb(185, 5, 65),rgb(241, 70, 7));
+    padding:3px 10px;
+    border-radius: 10px;
+}
+
